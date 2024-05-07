@@ -11,7 +11,6 @@
         <link rel='stylesheet' type='text/css' href='/webjars/bootstrap/3.3.6/css/bootstrap.min.css'>
         <style>
             .footer {
-                position: fixed;
                 left: 0;
                 bottom: 0;
                 width: 100%;
